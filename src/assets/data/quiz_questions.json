@@ -1,0 +1,55 @@
+{
+    "title":"Você sobreviveria numa ilha isolada ?",
+    "questions":[
+      {
+        "id":1,
+        "question": "Qual super poder você escolheria ?",
+        "options":[
+          {"id": 1, "name":"Raios-Lasers", "alias":"B"},
+          {"id": 2, "name":"Voar", "alias":"A"},
+          {"id": 3, "name":"Explodir coisas", "alias":"B"},
+          {"id": 4, "name":"Curar feridas", "alias":"A"},
+          {"id": 5, "name":"Soltar fogo pelas mãos", "alias":"A"}
+        ]
+      },
+      {
+        "id":2,
+        "question": "O que você procuraria primeiro ?",
+        "options":[
+          {"id": 1, "name":"Comida", "alias":"A"},
+          {"id": 2, "name":"Água", "alias":"A"},
+          {"id": 3, "name":"Não saberia escolher", "alias":"B"}
+        ]
+      },
+      {
+        "id":3,
+        "question": "Como enfrentaria um animal hostil?",
+        "options":[
+          {"id": 1, "name":"Fugiria", "alias":"A"},
+          {"id": 2, "name":"Jogaria pedra", "alias":"B"},
+          {"id": 3, "name":"Subiria uma árvore", "alias":"B"},
+          {"id": 4, "name":"Me esconderia", "alias":"A"}
+        ]
+      },
+      {
+        "id":4,
+        "question": "Qual o seu maior foco ?",
+        "options":[
+          {"id": 1, "name":"Ficar rico", "alias":"B"},
+          {"id": 2, "name":"Ser inteligente", "alias":"A"}
+        ]
+      },
+      {
+        "id":5,
+        "question": "Você é conhecido como ?",
+        "options":[
+          {"id": 1, "name":"Astuto", "alias":"A"},
+          {"id": 2, "name":"Forte", "alias":"B"}
+        ]
+      }
+    ],
+    "results":{
+      "A": "Você muito provavelmente sobreviveria!",
+      "B": "Você muito provavelmente não sobreviveria!"
+    }
+  }
